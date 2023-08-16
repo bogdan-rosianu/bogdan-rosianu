@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [@MultiversX](https://github.com/multiversx/mx-chain-go) as a GO Developer
 
-- 📫 X : [Bogdan Rosianu]([https://twitter.com/mihaiiuga3](https://twitter.com/BRosianu)
+- 📫 X : [Bogdan Rosianu](https://twitter.com/BRosianu)
 - 💬 LinkedIn: [Bogdan Rosianu](https://www.linkedin.com/in/bogdan-rosianu-a0930b151)
 
 
